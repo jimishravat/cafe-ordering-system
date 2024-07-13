@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import * as CONSTANT from "./constant"
+// import * as CONSTANT from "./constant"
 import ComingSoon from './ComingSoon';
 
 function App() {
