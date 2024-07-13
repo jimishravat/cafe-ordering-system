@@ -1,18 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
 import * as CONSTANT from "./constant"
+import ComingSoon from './ComingSoon';
 
 function App() {
+
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          {CONSTANT.BACKEND_URL}
-        </p>
-        
-      </header>
-    </div>
+    <>
+      <ComingSoon />
+    </>
   );
 }
 
