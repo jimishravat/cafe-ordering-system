@@ -61,7 +61,7 @@ const ComingSoon = () => {
             </div>
             <div className="newsletter-col col">
                 <div className="newslatter middle">
-                    <h2>We Will Coming Soon</h2>
+                    <h2>We Will be Coming Soon</h2>
 
 
                 </div>
